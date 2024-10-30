@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Hi" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Nhắn Gửi Lời Yêu Thương Của Bạn Vào Đây!" //Lời mở đầu cho bức thư
 const mainContentLetter = "Happy Birthday, Tuổi Mới Vui Vẻ!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
